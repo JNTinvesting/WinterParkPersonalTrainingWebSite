@@ -1,0 +1,6 @@
+User-agent: *
+Allow: *
+Disallow: http://winterparkpersonaltraining.com/trainers.html
+Disallow: http://winterparkpersonaltraining.com/testimonials.html
+Disallow: http://winterparkpersonaltraining.com/specials.html
+Disallow: http://winterparkpersonaltraining.com/schedule.html
